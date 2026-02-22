@@ -2,7 +2,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://giphy.com/gifs/yes-aemeath-wuwa-nod-dsnQK4gAwdOifKyjIl" width="280" alt="chill anime gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280" alt="chill anime gif" />
 
 ```
 ██████╗       ██████╗ ██╗███████╗
@@ -13,7 +13,7 @@
 ╚═════╝       ╚═╝     ╚═╝╚══════╝
 ```
 
-###  hey, i'm **B-PIE** — fresh start, big dreams.
+### 👾 hey, i'm **Kyu** — fresh start, big dreams.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Python+Dev+%F0%9F%90%8D;AI+Enthusiast+%F0%9F%A4%96;Blockchain+Explorer+%E2%9B%93;Builder+of+Cool+Things+%F0%9F%94%A5;Fresh+Start+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -27,9 +27,9 @@
 ## 🕹️ Tetris Contribution Board
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blueberrypieee/Blueberrypieee/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blueberrypieee/Blueberrypieee/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Blueberrypieee/Blueberrypieee/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blueberrypieee/B-Pie/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blueberrypieee/B-Pie/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Blueberrypieee/B-Pie/output/github-contribution-grid-snake.svg" />
 </picture>
 
 > 🎮 *Watch the blocks eat my commits — Tetris style!*
@@ -39,24 +39,24 @@
 ---
 
 <!-- About Me -->
-##  `whoami`
+## 🎨 `whoami`
 
 ```python
 class Kyu:
     name       = "Rizky"
     alias      = ["Ky", "Qy", "Kyu", "B-Pie"]
     github     = "Blueberrypieee"
-    status     = "Fresh Start — building from zero"
+    status     = "✨ Fresh Start — building from zero"
     
     languages  = {
-        "Python": "Main Language",
-        "JavaScript": "Still Learning",
+        "Python": "Main Language 🐍",
+        "JavaScript": "Still Learning 📖",
     }
     
     interests  = ["Blockchain", "Web3", "AI & Machine Learning"]
     
     def say_hi(self):
-        print("Hey! Let's build something awesome together")
+        print("Hey! Let's build something awesome together 🚀")
 
 me = Kyu()
 me.say_hi()
@@ -65,7 +65,7 @@ me.say_hi()
 ---
 
 <!-- Language Stats -->
-## Languages
+## 🐍 Languages
 
 <div align="center">
 
@@ -88,7 +88,7 @@ me.say_hi()
 ---
 
 <!-- Interests -->
-## What I'm Into
+## 🌐 What I'm Into
 
 <div align="center">
 
@@ -107,8 +107,7 @@ me.say_hi()
 ---
 
 <!-- Featured Project -->
-
-## Featured Project — **THEA**
+## 🤖 Featured Project — **THEA**
 
 <div align="center">
 
@@ -129,9 +128,9 @@ me.say_hi()
 
 | Feature | Description |
 |--------|-------------|
-|  **Memory Injection** | Thea remembers past conversations and context |
-|  **Personality Engine** | Dynamically adapts tone, mood, and behavior |
-|  **AI Chat** | Natural, human-like conversations powered by Python |
+| 🧠 **Memory Injection** | Thea remembers past conversations and context |
+| 🎭 **Personality Engine** | Dynamically adapts tone, mood, and behavior |
+| 💬 **AI Chat** | Natural, human-like conversations powered by Python |
 
 <div align="center">
 
@@ -142,7 +141,7 @@ me.say_hi()
 ---
 
 <!-- GitHub Stats -->
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -154,7 +153,7 @@ me.say_hi()
 ---
 
 <!-- Pixel Art Tetris Decoration -->
-## Pixel Corner
+## 🧱 Pixel Corner
 
 ```
   🟥🟥        🟦🟦🟦🟦     🟩
@@ -167,21 +166,21 @@ me.say_hi()
 ---
 
 <!-- Fun facts -->
-##  Random Facts about Me
+## ⚡ Random Facts about Kyu
 
--  Fresh start energy — I'm back and building again
--  Built **Thea**, an AI with memory and personality
--  Currently diving deep into **Blockchain & Web3**
--  Python is my main weapon, JS is next
--  Tetris is life (clearly)
--  Code better with coffee
+- 🔄 Fresh start energy — I'm back and building again
+- 🤖 Built **Thea**, an AI with memory and personality
+- ⛓️ Currently diving deep into **Blockchain & Web3**
+- 🐍 Python is my main weapon, JS is next
+- 🎮 Tetris is life (clearly)
+- ☕ Code better with coffee
 
 ---
 
 <!-- Footer -->
 <div align="center">
 
-### Let's Connect!
+### 🌐 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Blueberrypieee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blueberrypieee)
 
