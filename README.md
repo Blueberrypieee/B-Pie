@@ -2,7 +2,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280" alt="chill anime gif" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTZiZDdhZWM2YXpsNmV5amN0ZHVkaXVrY2RncHdmNTRob2NrbG0wdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KkFY1xWTOhLLpnWuDs/giphy.gif" width="280" alt="chill anime gif" />
 
 ```
 ██████╗       ██████╗ ██╗███████╗
