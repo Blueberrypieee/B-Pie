@@ -42,7 +42,7 @@
 ## `whoami`
 
 ```python
-class Kyu:
+class B-PIE:
     name       = "Rizky"
     alias      = ["Ky", "Qy", "Kyu", "B-Pie"]
     github     = "Blueberrypieee"
