@@ -58,7 +58,7 @@ class B-PIE:
     def say_hi(self):
         print("Hey! Let's build something awesome together")
 
-me = Kyu()
+me = B-PIE()
 me.say_hi()
 ```
 
